@@ -1,0 +1,8 @@
+.idea
+databaseprotestim.db
+venv310/
+__pycache__/
+*.pyc
+*.db
+credentials.json
+.env
